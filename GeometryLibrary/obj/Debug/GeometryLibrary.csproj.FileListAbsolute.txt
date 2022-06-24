@@ -1,0 +1,12 @@
+D:\WebProjects\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+D:\WebProjects\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+D:\WebProjects\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.AssemblyReference.cache
+D:\WebProjects\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.CoreCompileInputs.cache
+D:\WebProjects\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+D:\WebProjects\GeometryLibrary\obj\Debug\GeometryLibrary.pdb
+D:\WebProjects\Figures\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+D:\WebProjects\Figures\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+D:\WebProjects\Figures\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.AssemblyReference.cache
+D:\WebProjects\Figures\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.CoreCompileInputs.cache
+D:\WebProjects\Figures\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+D:\WebProjects\Figures\GeometryLibrary\obj\Debug\GeometryLibrary.pdb
